@@ -6,7 +6,7 @@
 	"author": "Pikachar",
 	"contact": "",
 	"homepage": "",
-	"description":"Replaces the spawner graphics to more neutral ones for trypophobia. Original by Adil",
+	"description":"Replaces the spawner graphics to more neutral ones for trypophobia. Previous by MobiusXIV, Original by Adil",
 	"dependencies":
 	[
 		"base >= 2.0",
