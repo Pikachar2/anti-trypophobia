@@ -1,4 +1,4 @@
-use_phobia_mode = true
+require('config')
 --local is_space-age_enabled = script.active_mods["space%-age"] 
 local is_space_age_enabled = mods["space-age"]
 
@@ -53,3 +53,5 @@ if use_phobia_mode then
 	end
 
 end
+
+
