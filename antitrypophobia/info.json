@@ -9,6 +9,7 @@
 	"description":"Replaces the spawner graphics to more neutral ones for trypophobia. Original by Adil",
 	"dependencies":
 	[
-		"base >= 2.0"
+		"base >= 2.0",
+		"? space-age"
 	]
 }
