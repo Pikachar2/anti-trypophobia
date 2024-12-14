@@ -1,7 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.3
-Date: 12.08.2024
+Date: 12.13.2024
   Update:
     - Factorio 2.0 update
-  Dependencies:
-    - Added Cardinal mod incompatible; it is a mod that does what VehicleSnap does in different way, there is no reason to load both and bad things could happen if you do.
+    - Support for Space Age biter related buildings
