@@ -4,7 +4,7 @@ local is_space_age_enabled = mods["space-age"]
 
 if use_phobia_mode then
 	base_dir = "__base__/graphics/entity/"
-	mod_dir = "__antitrypophobia__/"
+	mod_dir = "__antitrypophobia2__/"
 	objects = {"biter-spawner","spitter-spawner","biter-spawner-corpse","spitter-spawner-corpse"}
 
 --	log ('antitrypophobia --- data.raw.corpse: ' .. serpent.block(data.raw["corpse"]["biter-spawner-corpse"]))
